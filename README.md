@@ -1,4 +1,8 @@
-# ∞infinito
+# ∞infinito legacy
+# ⚠️⚠️⚠️ **DEPRECATION WARNING** ⚠️⚠️⚠️
+
+**The project `Infinito` is DEPRECATED and has been replaced by [**Infinito.Nexus**](https://github.com/kevinveenbirkenbach/infinito-nexus/).** This repository is retained **for historical documentation purposes only**.
+
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/2448/badge)](https://bestpractices.coreinfrastructure.org/projects/2448)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2754e42b5db4404798c13d1cf871dac3)](https://app.codacy.com/app/KevinFrantz/infinito?utm_source=github.com&utm_medium=referral&utm_content=KevinFrantz/infinito&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/KevinFrantz/infinito.svg?branch=master)](https://travis-ci.org/KevinFrantz/infinito)
